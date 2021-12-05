@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Class3.dir/main.cpp.o -o Class3 

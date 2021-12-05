@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cheung/Desktop/Program/CPPProgram/DataStructure/Class2/InsertionSort.h
+iostream
+-
+
+/home/cheung/Desktop/Program/CPPProgram/DataStructure/Class2/MergeSort.h
+iostream
+-
+InsertionSort.h
+/home/cheung/Desktop/Program/CPPProgram/DataStructure/Class2/InsertionSort.h
+
+/home/cheung/Desktop/Program/CPPProgram/DataStructure/Class2/QuickSort.h
+iostream
+-
+
+/home/cheung/Desktop/Program/CPPProgram/DataStructure/Class2/SortTestHelper.h
+iostream
+-
+cassert
+-
+
+/home/cheung/Desktop/Program/CPPProgram/DataStructure/Class2/main.cpp
+iostream
+-
+SortTestHelper.h
+/home/cheung/Desktop/Program/CPPProgram/DataStructure/Class2/SortTestHelper.h
+MergeSort.h
+/home/cheung/Desktop/Program/CPPProgram/DataStructure/Class2/MergeSort.h
+InsertionSort.h
+/home/cheung/Desktop/Program/CPPProgram/DataStructure/Class2/InsertionSort.h
+QuickSort.h
+/home/cheung/Desktop/Program/CPPProgram/DataStructure/Class2/QuickSort.h
+
